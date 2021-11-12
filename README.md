@@ -1,5 +1,6 @@
 # Programação Concorrente
 Exercícios desenvolvidos na Disciplina de Programação Concorrente 2021.1
+Para rodar os exercícios basta utilizar o comando `gcc -pthread (nome_arquivo.c)`
 
 1. Locks
     - [Leitores Escritores](Locks/leitores_escritores_mutex.c)
