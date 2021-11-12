@@ -22,4 +22,6 @@ Exercícios desenvolvidos na Disciplina de Programação Concorrente 2021.1
     - [Multiplicação de Matrizes](Barreiras/matriz_multiplicacao_barreira.c)
 
 
-</details>
+5. Projeto Final
+    - [Implementação Canil](ProjetoFinal/canil_adocao.c)
+    - [Relatório](ProjetoFinal/Projeto_Final_190043725.pdf)
